@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=SLszG6sSInY&t=1097s<br />
 4-https://youtube.com/playlist?list=PLWQgptB2ttLvOaVlohjV_0t9n5f9m5c_W  <br />
 ## 5️⃣Python/R depends on if you want to learn AI and ML
 <br />
-### المصادر اللي برشحها ليهم
+### المصادر اللي برشحلها ليهم
 <br />
  م.عبدالرحمن جمال <br />
 https://youtu.be/eeRw__TlgmQ <br />
