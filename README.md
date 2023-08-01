@@ -31,7 +31,8 @@ https://www.youtube.com/watch?v=SLszG6sSInY&t=1097s<br />
 4-https://youtube.com/playlist?list=PLWQgptB2ttLvOaVlohjV_0t9n5f9m5c_W  <br />
 ## 5️⃣Python/R depends on if you want to learn AI and ML
 <br />
-### 🔹المصادر اللي برشحها ليها ♥️<br />
+### 🔹المصادر اللي برشحها ليها ♥️
+<br />
  م.عبدالرحمن جمال <br />
 https://youtu.be/eeRw__TlgmQ <br />
 
@@ -45,15 +46,15 @@ https://youtu.be/UknrRPua6wg <br />
 🔹اهم حاجا وانتو بتدرسوا اي tool تفهموا استخدامات ال Tool دي واحنا اصلا ليه بنستخدمها ف لو انتو. اول مره تدرسوا ال tool دي احسن حاجا انكو تبدءوا بلنظري بتاعها حيفيدكو جامد ف البروجيكت ف تحديد حتشتغلوا ب اي وحتبقوا فاهمين اي المناسب لكل بروجيكت  ♥️ <br />
 #  دي بقا لينكات ل كورسات كامله فل Analysis ♥️ 
 <br />
-🔹افضل المصادر إلي لقيتها لما كنت بدأت في الأول وعملتها save
+🔹افضل المصادر إلي لقيتها لما كنت بدأت في الأول 
 <br />
 https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF <br />
-دة Boot camp من عند Alex analysist من اشهر الناس واحسن الناس الي بتوصل المعلومة دي مع التطبيق علي كل DBMS وكل حاجة وفي آخر الكورس في بادج وشهادة ليك أي نعم مش مهمة علي قد ما مهم التطبيق والفهم <br />
-### 🔹Data analysis: <br />
+
+## 🔹Data analysis: <br />
   https://mega.nz/folder/KrZRBKbD#yzt5Qoyfx5Ll_AnZTyIPWg <br />
-### 🔹Google Data Analytics Professional Certificate <br />
+## 🔹Google Data Analytics Professional Certificate <br />
 https://www.coursera.org/professional-certificates/google-data-analytics <br />
-### 🔹Google Advanced Data Analytics Professional Certificate <br />
+## 🔹Google Advanced Data Analytics Professional Certificate <br />
 https://www.coursera.org/professional-certificates/google-advanced-data-analytics <br />
-### 🔹IBM Data Analyst Professional Certificate <br />
+## 🔹IBM Data Analyst Professional Certificate <br />
 https://www.coursera.org/professional-certificates/ibm-data-analyst <br />
