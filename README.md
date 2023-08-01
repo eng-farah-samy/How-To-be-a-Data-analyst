@@ -24,14 +24,14 @@ https://www.youtube.com/watch?v=SLszG6sSInY&t=1097s<br />
 2-https://www.linkedin.com/posts/minayousef_1-sql-introduction-db-design-erd-file-activity-6994598519936290816-NeJ9?utm_source=share&utm_medium=member_androIT <br />
 
 ## 4️⃣PowerBI/Tableau  <br />
-### المصادر اللي برشحلها ليهم 
+### المصادر اللي برشحلها ليهم
 1-https://youtube.com/playlist?list=PLvvAoLcy43Dsy9txXAsNmCaXK4QXqCQ85 <br />
 2-https://youtube.com/playlist?list=PL3dysV3w8Oxm7Duu_sNSWLEx4vK5z3bVK <br />
 3-https://drive.google.com/file/d/1_8KX81VLFrc05rg8DSmHxlYnpmUtxCeD/view?usp=sharing  <br />
 4-https://youtube.com/playlist?list=PLWQgptB2ttLvOaVlohjV_0t9n5f9m5c_W  <br />
 ## 5️⃣Python/R depends on if you want to learn AI and ML
 <br />
-### المصادر اللي برشحها ليها 
+### المصادر اللي برشحها ليهم
 <br />
  م.عبدالرحمن جمال <br />
 https://youtu.be/eeRw__TlgmQ <br />
