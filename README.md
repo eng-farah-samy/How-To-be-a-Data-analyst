@@ -1,4 +1,4 @@
-# How-To-be-a-Data-analyst
+# How-To-be-Data-analyst
 It's a road map helping people start Data analysis Career <br />
 ف البدايه بما ان اغلبكم ميعرفش كتير عن المجال وعايز يفهم اي المجال دا اصلا <br />
 ف البنوته دي شاطره جدا وبتشرح المجال والفرق بين المجالات التانيه ب صوره كويسه جدا<br />
